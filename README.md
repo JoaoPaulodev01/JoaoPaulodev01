@@ -3,8 +3,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-4a6a80311/)
 
-![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulodev01&show_icons=true&theme=onedark)
-
 ## Tecnologias que eu utilizo
 
 <div style='display: inline_block'><br/>
